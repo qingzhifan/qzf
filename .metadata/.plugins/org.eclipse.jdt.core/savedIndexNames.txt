@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+D:\yychat\.metadata\.plugins\org.eclipse.jdt.core
+256078399.index
